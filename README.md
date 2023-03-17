@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Data Science**
 
-- 👨‍💻 All of my projects are available at [https://precious-starlight-a9247e.netlify.app/](https://precious-starlight-a9247e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shahriarsajeeb.com/](https://shahriarsajeeb.com/)
 
 - 💬 Ask me about **MERN,Web Application/ Mobile Apps Development**
 
