@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarsajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarsajeeb" /> </p>
 
-- I am currently working on [Becodemy](https://becodemy.com)
+- I am currently working on [Becodemy](https://www.becodemy.com)
 
 - 🌱 I’m currently learning **Machine Learning,Data Science**
 
